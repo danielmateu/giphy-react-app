@@ -14,7 +14,6 @@ figure.card{
 
 figure.card:hover{
     opacity: .6;
-    height:12rem;
 }
 
 figure.card > img{
