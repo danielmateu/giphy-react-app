@@ -10,10 +10,12 @@ figure.card{
     -moz-transition: .3s ease-in;
     -ms-transition: .3s ease-in;
     -o-transition: .3s ease-in;
+    opacity: .8;
 }
 
 figure.card:hover{
-    opacity: .6;
+    opacity: 1;
+    
 }
 
 figure.card > img{
