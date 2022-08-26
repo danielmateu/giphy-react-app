@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import './GifItem.css';
+// import './GifItem.css';
 
 
 export const GifItem = ({url,title}) => {
