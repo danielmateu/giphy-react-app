@@ -3,7 +3,7 @@ import { useFetchGifs } from "../hooks/useFetchGifs";
 
 import {PropTypes} from "prop-types";
 
-import './GifGrid.css'
+// import './GifGrid.css'
 
 export const GifGrid = ({ category }) => {
 
