@@ -21,12 +21,9 @@ export const AddCategory = ({
 
         setInputValue('');
         onNewCategory(inputValue.trim())
-        
-        
     }
 
     return (
-    
     <form onSubmit={ onSubmit } aria-label="form">
         <input 
             type="text"
@@ -34,7 +31,6 @@ export const AddCategory = ({
             value={inputValue}
             onChange={onInputChange}/>
     </form>
-    
 )
 }
 
